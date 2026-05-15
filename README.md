@@ -5,11 +5,7 @@ A black-and-white smooth React/Vite maths Q&A prototype.
 ## Deploy on Vercel
 
 1. Upload this folder to GitHub.
-2. Import the GitHub repo into Vercel.
-3. Use:
-   - Framework: Vite
-   - Build command: `npm run build`
-   - Output directory: `dist`
+
 
 ## Note
 
